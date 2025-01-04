@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Camry",
+    "brand": "Toyota",
+    "detail": "The Toyota Camry is a stylish and reliable sedan with excellent fuel efficiency and advanced safety features. Perfect for both daily commuting and family trips.",
+    "coverimage": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb",
+    "price": "$25,999",
+    "engine": "2.5L 4-Cylinder",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "Model 3",
+    "brand": "Tesla",
+    "detail": "The Tesla Model 3 is an all-electric sedan that combines long range, minimalist design, and cutting-edge technology. Features autopilot capabilities and over-the-air updates.",
+    "coverimage": "https://images.unsplash.com/photo-1561580125-028ee3bd62eb",
+    "price": "$39,999",
+    "engine": "Dual Motor Electric",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "911",
+    "brand": "Porsche",
+    "detail": "The Porsche 911 is an iconic sports car offering exceptional performance and handling. Features a distinctive design and premium build quality.",
+    "coverimage": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e",
+    "price": "$99,999",
+    "engine": "3.0L Twin-Turbo",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "C-Class",
+    "brand": "Mercedes-Benz",
+    "detail": "The Mercedes-Benz C-Class combines luxury, comfort, and performance. Features premium materials and advanced driver assistance systems.",
+    "coverimage": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+    "price": "$43,999",
+    "engine": "2.0L Turbo",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Mustang",
+    "brand": "Ford",
+    "detail": "The Ford Mustang is an American muscle car icon with powerful performance and bold styling. Features multiple engine options and modern technology.",
+    "coverimage": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd",
+    "price": "$27,999",
+    "engine": "5.0L V8",
+    "rating": 4
+  }
+]
